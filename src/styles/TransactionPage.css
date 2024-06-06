@@ -1,0 +1,24 @@
+.transaction-table {
+    font-size: 14px;
+  }
+  
+  .transaction-amount.income {
+    color: #28a745; /* Green for income */
+  }
+  
+  .transaction-amount.expense {
+    color: #dc3545; /* Red for expenses */
+  }
+  
+  .transaction-link {
+    color: #007bff; /* Blue color for links */
+    text-decoration: none;
+  }
+  
+  .transaction-link:hover {
+    text-decoration: underline;
+  }
+  
+  .summary{
+    font-size: 27px;
+  }
